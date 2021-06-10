@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cca5d945.chunk.css",
+    "main.js": "./static/js/main.6e40baf6.chunk.js",
+    "main.js.map": "./static/js/main.6e40baf6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.affffe57.js",
+    "runtime-main.js.map": "./static/js/runtime-main.affffe57.js.map",
+    "static/js/2.60ee812b.chunk.js": "./static/js/2.60ee812b.chunk.js",
+    "static/js/2.60ee812b.chunk.js.map": "./static/js/2.60ee812b.chunk.js.map",
+    "static/js/3.a5d3bab7.chunk.js": "./static/js/3.a5d3bab7.chunk.js",
+    "static/js/3.a5d3bab7.chunk.js.map": "./static/js/3.a5d3bab7.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.cca5d945.chunk.css.map": "./static/css/main.cca5d945.chunk.css.map",
+    "static/js/2.60ee812b.chunk.js.LICENSE.txt": "./static/js/2.60ee812b.chunk.js.LICENSE.txt",
+    "static/media/Trial.scss": "./static/media/icon-check.83c38a48.svg",
+    "static/media/Pricing.scss": "./static/media/icon-slider.cbca35e0.svg",
+    "static/media/Header.scss": "./static/media/pattern-circles.9f6ed14b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.affffe57.js",
+    "static/js/2.60ee812b.chunk.js",
+    "static/css/main.cca5d945.chunk.css",
+    "static/js/main.6e40baf6.chunk.js"
+  ]
+}
