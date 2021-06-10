@@ -1,11 +1,15 @@
 import './App.scss';
-import Attribution from './Attribution';
+import Attribution from './components/Attribution';
+import Card from './components/Card';
+import Header from './components/Header';
 
 function App() {
   return (
     <div className="App">
-
-    <Attribution />
+      <div className="background-pattern"></div>
+      <Header />
+      <Card />
+      <Attribution />
     </div>
   );
 }

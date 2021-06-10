@@ -1,0 +1,20 @@
+.Attribution {
+    padding-bottom: 10px;
+    
+    a {
+        font-size: 16px;
+        cursor: pointer;
+        color: var(--dark-desaturated-blue-text-and-CTA-background);
+    }
+
+    @media screen and (max-width: 475px) {
+        & {
+            font-size: 12px;
+
+            a {
+                font-size: 14px;
+            }
+        }
+        
+    }
+}
